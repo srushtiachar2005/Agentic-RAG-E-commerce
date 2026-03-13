@@ -1,0 +1,4 @@
+vector_store/
+myenv/
+__pycache__/
+*.pyc
